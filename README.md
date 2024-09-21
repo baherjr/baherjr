@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baherjr
 - 👀 I’m interested in Data Engineering & Networks
 - 🌱 I’m currently learning Data Engineering
-- 📫 How to reach me IG:@baherjr
+- 📫 How to reach me IG:@_baherjr_
 - ⚡ Fun fact: A Manchester United Fan
 
 <!---
