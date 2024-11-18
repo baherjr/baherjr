@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @baherjr
-- 👀 I’m interested in Data Engineering & Networks
+- 👀 I’m interested in Data Engineering, Networks, & AI
 - 🌱 I’m currently learning Data Engineering
 - ⚡ Fun fact: A Manchester United Fan
 
