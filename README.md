@@ -10,7 +10,7 @@
 </pre> 
 
 ### `Computer Engineering and Software System (CESS) Undergrad.`
-### `Data Engineering · AI · Computational Social Science Aspiriant`
+### Data Engineering · Intelligent Systems · Computational Social Science Aspirant
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Building+pipelines+that+turn+data+into+insight.;Exploring+culture+%26+politics+through+data.;Always+learning.+Always+shipping.)](https://git.io/typing-svg)
 
